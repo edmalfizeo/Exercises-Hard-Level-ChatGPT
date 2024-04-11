@@ -1,0 +1,17 @@
+Sure, here are five challenging Python questions that test basic knowledge:
+
+Nested List Comprehension:
+Write a Python program to generate a 3x3 matrix with each element being the multiplication of its indices using nested list comprehension.
+
+Prime Factorization:
+Write a Python function to find all prime factors of a given number.
+
+Palindrome Check:
+Write a Python function to check if a given string is a palindrome or not. (Without using built-in string reversal functions)
+
+Matrix Transposition:
+Write a Python program to transpose a given matrix (2D list).
+
+Word Frequency Counter:
+Write a Python function that takes a string of text as input and returns a dictionary containing the frequency of each word in the text (case insensitive). Exclude punctuation marks and consider a word to be any sequence of non-whitespace characters.
+
