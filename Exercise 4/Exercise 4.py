@@ -1,8 +1,8 @@
 import numpy as np
 matrix = []
 
-row = int(input("Write the size of the row"))
-column = int(input("Write the size of the colums"))
+row = int(input("Write the size of the row: "))
+column = int(input("Write the size of the colums: "))
 for i in range(row):
     a = []
     for j in range(column):
